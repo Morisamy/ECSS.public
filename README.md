@@ -24,7 +24,7 @@ ECSS.public is a cutting-edge application built with C# and .NET, incorporating 
 ---
 
 ### Demo:
-For a comprehensive look at the system's capabilities and to see the cool frontend in action, check out the project demonstration on YouTube [here](https://youtu.be/gEhys8_7rFs?si=QWag8Nz3nVtv7yuS).
+For a comprehensive look at the system's capabilities and to see the cool frontend in action, check out the project demonstration on YouTube [here](https://youtu.be/gEhys8_7rFs?si=QWag8Nz3nVtv7yuS) & [here](https://youtu.be/u0kcDg15hPo?si=1IgG0uM0Fkn0DjAK)
 
 ---
 
