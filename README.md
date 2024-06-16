@@ -1,5 +1,1 @@
-# ECSS.public
-C# - dot net - SQL app for Security Gate System
-
-https://youtu.be/gEhys8_7rFs?si=QWag8Nz3nVtv7yuS
-
+ECSS.public is a comprehensive C# and .NET application designed for a Security Gate System, leveraging SQL for efficient database management. This project showcases the implementation of a robust security system, providing features such as user authentication, access control, and detailed logging of entry and exit events. The application ensures high security and reliability, making it ideal for various organizational needs. For a detailed demonstration of the system's capabilities and functionality, you can watch the project overview video on YouTube by following this [link](https://youtu.be/gEhys8_7rFs?si=QWag8Nz3nVtv7yuS).
